@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Just",
+        "repositoryURL": "https://github.com/JustHTTP/Just.git",
+        "state": {
+          "branch": null,
+          "revision": "a6b530d0e7f237aee6262a4ba71086d9d884bb58",
+          "version": "0.7.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
