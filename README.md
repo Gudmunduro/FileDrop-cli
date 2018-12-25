@@ -1,3 +1,3 @@
-# FileDrop-cli
+# FileDrop CLI
 
-A description of this package.
+Command line application for uploading to FileDrop [Filedrop](https://filedrop.fisedush.com)
